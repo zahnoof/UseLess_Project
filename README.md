@@ -1,11 +1,11 @@
-![lightning mcqueen](https://github.com/user-attachments/assets/0d719d65-b011-4465-8622-bb8cf143ec6c)# UseLess_Project
+# UseLess_Project
 [MIKU_BOUNCING] 🎯
 Basic Details
 Team Name: [FELTRON]
 Team Members
 Team Lead: [ZAHNOOF KAREEM] - [COLLEGE OF ENGINNERING MUNNAR]
 Member 2: [EDWIN SIBI] - [COLLEGE OF ENGINEERING MUNNAR]
-Member 3: [KHERRTHNA SB]
+Member 3: [KHEERTHNA SB]
 Project Description
 This project is a dynamic, interactive website designed to enhance user engagement through hover and bounce animations. As users move their cursor across the screen, images subtly respond by hovering, creating a sense of depth and interactivity. When the cursor pauses or clicks on an image, the image then animates with a bounce effect, adding playful motion to each interaction.
 
